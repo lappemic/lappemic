@@ -12,7 +12,7 @@ I also contribute to open-source projects and run niche jobboards like [NextGenE
 
 I love being outdoor and do something, be it cycling, running, or climbing. These are lately mostly slower, lower and with a strawler.
 
-🛠️ I'm open to freelance collaborations, MVP builds, and data science consulting.
+🛠️ I'm open to freelance collaborations, MVP builds, and data science consulting. Reach out in one of the below sources if you think we might be a good fit.
 
 #### Connect with me
 
