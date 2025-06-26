@@ -8,7 +8,7 @@ Before freelancing, i worked in engineering consultancy and data science roles a
 
 In 2025, i launched [bytebricks.ch](https://bytebricks.ch), a Swiss Product Development (some may call it MVPs) and Data Engineering Studio. The goal of bytebricks is to help non-technical early-stage founders and organizations build fast and lightweight software solutions. The belief is that many established software companies overengineer and -complicate solutions. This is especially true if someone just wants to test the waters and see if an idea is worth more investment. Here is a light approach wich fast feedback loops needed and not a fully fetched solution which would already scale to millions of users or covers every edge case. But get something up and running as fast as possible and iterate on the outcome.
 
-I also contribute to open-source projects and run niche jobboards like [NextGenEnergyJobs.com](https://nextgenenergyjobs.com) to connect people with clean energy jobs.
+I also contribute to open-source projects and run niche jobboards like [NextGenEnergyJobs.com](https://nextgenenergyjobs.com?ref=githubReadme) to connect people with clean energy jobs.
 
 I love being outdoor and do something, be it cycling, running, or climbing. These are lately mostly slower, lower and with a strawler.
 
@@ -16,7 +16,7 @@ I love being outdoor and do something, be it cycling, running, or climbing. Thes
 
 #### Connect with me
 
-* 🌐 [My Website](https://michaelscheiwiller.com)
+* 🌐 [My Website](https://michaelscheiwiller.com?ref=githubReadme)
 * 🐦 [Twitter/X](https://twitter.com/mischeiwiller)
 * 💼 [LinkedIn](https://www.linkedin.com/in/michael-scheiwiller-72086a1a0/)
 
