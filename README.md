@@ -1,6 +1,6 @@
 ### Hello, my name is Michael 👋
 
-I am a Freelance Data Scientist and Software Engineer working at the intersection of sustainability and tech. I help startups, NGO's, and clean tech companies to make use of their data and turn it into useful products and dashboards.
+I am a Freelance Data Scientist and Software Engineer working at the intersection of sustainability and tech. I help startups and clean tech companies to make use of their data and turn it into useful products and dashboards.
 
 My goal is to build tools that enable the people who use them to become more efficient, have insights they could not have before and therewith helping them to identify the most impactful next step. I do this through analytics, MVP's or data pipelines.
 
